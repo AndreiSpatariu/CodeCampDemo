@@ -1,0 +1,6 @@
+{
+  "SlackConnectionString": "",
+  "SlackCommandToken": "Y5WK4ZuMbIvwfW1QsxLemmJC",
+  "SlackWebHookUri": "https://hooks.slack.com/services/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",
+  "DBConnectionString": "Server=tcp:codecampchat.database.windows.net,1433;Initial Catalog=CodecampChat;Persist Security Info=False;User ID=AndreiSpatariu;Password=Codecampdemo<123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+}
